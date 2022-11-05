@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c4d63548.chunk.css",
+    "main.js": "/Portfolio/static/js/main.4c77c8d0.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4c77c8d0.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.b005a422.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b005a422.js.map",
+    "static/js/2.2e0a2269.chunk.js": "/Portfolio/static/js/2.2e0a2269.chunk.js",
+    "static/js/2.2e0a2269.chunk.js.map": "/Portfolio/static/js/2.2e0a2269.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.2af31dc460449a45089f4efdd187d6f6.js": "/Portfolio/precache-manifest.2af31dc460449a45089f4efdd187d6f6.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.c4d63548.chunk.css.map": "/Portfolio/static/css/main.c4d63548.chunk.css.map",
+    "static/js/2.2e0a2269.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2e0a2269.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/acm.png": "/Portfolio/static/media/acm.d86775ac.png",
+    "static/media/aftab.png": "/Portfolio/static/media/aftab.380aec9e.png",
+    "static/media/buld.jpg": "/Portfolio/static/media/buld.a1051a22.jpg",
+    "static/media/cwoc.png": "/Portfolio/static/media/cwoc.404ae7bc.png",
+    "static/media/efi.png": "/Portfolio/static/media/efi.82473004.png",
+    "static/media/all.css": "/Portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/flutter.png": "/Portfolio/static/media/flutter.54f67219.png",
+    "static/media/github.png": "/Portfolio/static/media/github.0ba2aa20.png",
+    "static/media/google_cloud.png": "/Portfolio/static/media/google_cloud.f4959ba5.png",
+    "static/media/hackathon1.svg": "/Portfolio/static/media/hackathon1.7a2dbf7a.svg",
+    "static/media/magic.svg": "/Portfolio/static/media/magic.9d0295a6.svg",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.d324ee17.png",
+    "static/media/rait.svg": "/Portfolio/static/media/rait.b26021e6.svg",
+    "static/media/rait.jpeg": "/Portfolio/static/media/rait.d639bc9a.jpeg",
+    "static/media/red_hat.png": "/Portfolio/static/media/red_hat.d069aeca.png",
+    "static/media/stream.png": "/Portfolio/static/media/stream.050316c1.png",
+    "static/media/sublime.png": "/Portfolio/static/media/sublime.99ffe87b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b005a422.js",
+    "static/js/2.2e0a2269.chunk.js",
+    "static/css/main.c4d63548.chunk.css",
+    "static/js/main.4c77c8d0.chunk.js"
+  ]
+}

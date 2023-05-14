@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3f5bc53.chunk.css",
+    "main.js": "/static/js/main.e272a1e4.chunk.js",
+    "main.js.map": "/static/js/main.e272a1e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
+    "static/js/2.7ae6c744.chunk.js": "/static/js/2.7ae6c744.chunk.js",
+    "static/js/2.7ae6c744.chunk.js.map": "/static/js/2.7ae6c744.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.58be2cfb1b9575aad82593a15b6196d2.js": "/precache-manifest.58be2cfb1b9575aad82593a15b6196d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b3f5bc53.chunk.css.map": "/static/css/main.b3f5bc53.chunk.css.map",
+    "static/js/2.7ae6c744.chunk.js.LICENSE.txt": "/static/js/2.7ae6c744.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/acm.png": "/static/media/acm.d86775ac.png",
+    "static/media/aftab.png": "/static/media/aftab.380aec9e.png",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
+    "static/media/efi.png": "/static/media/efi.82473004.png",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/flutter.png": "/static/media/flutter.54f67219.png",
+    "static/media/github.png": "/static/media/github.0ba2aa20.png",
+    "static/media/google_cloud.png": "/static/media/google_cloud.f4959ba5.png",
+    "static/media/hackathon1.svg": "/static/media/hackathon1.7a2dbf7a.svg",
+    "static/media/magic.svg": "/static/media/magic.9d0295a6.svg",
+    "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
+    "static/media/rait.svg": "/static/media/rait.b26021e6.svg",
+    "static/media/rait.jpeg": "/static/media/rait.d639bc9a.jpeg",
+    "static/media/red_hat.png": "/static/media/red_hat.d069aeca.png",
+    "static/media/stream.png": "/static/media/stream.050316c1.png",
+    "static/media/sublime.png": "/static/media/sublime.99ffe87b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fdae03d.js",
+    "static/js/2.7ae6c744.chunk.js",
+    "static/css/main.b3f5bc53.chunk.css",
+    "static/js/main.e272a1e4.chunk.js"
+  ]
+}

@@ -271,7 +271,7 @@ const experience = {
           company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
           company_url: "https://indiaenvironment.org/",
           logo_path: "efi.png",
-          duration: "Aug 2019 - Present",
+          duration: "Aug 2019 - May 2023",
           location: "Navi Mumbai",
           description:
             `Volunteered in restoring environmental balance by strategizing, planning, and implementing several afforestation activities in the campus.

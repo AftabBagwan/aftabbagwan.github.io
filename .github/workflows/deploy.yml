@@ -1,0 +1,40 @@
+name: GitHub Pages Deploy
+
+# Trigger the workflow on pushes to the main branch
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the latest code from the main branch
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Step 2: Set up Ruby (required for Jekyll)
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'  # Set your Ruby version here
+
+      # Step 3: Install dependencies
+      - name: Install Jekyll and Bundler
+        run: |
+          gem install bundler
+          bundle install
+
+      # Step 4: Build the Jekyll site
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+
+      # Step 5: Deploy the generated files to the gh-pages branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          destination_branch: gh-pages
